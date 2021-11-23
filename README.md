@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="font-weight: bold;">Im 1dev</h1>
-  <h2>Programmer from england</h2>
+  <h2>Im a programmer from england</h2>
   <br/>
   <h3>Languages</h3>
   <div>
@@ -15,5 +15,6 @@
   <div>
     <img alt="Python" src="https://img.shields.io/badge/-python-040a16?style=for-the-badge&logo=python">
   </div>
+  <h2>My discord is 1dev#4162</h2>
   <br/>
   <div>
