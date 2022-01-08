@@ -15,7 +15,4 @@
   <div>
     <img alt="Python" src="https://img.shields.io/badge/-python-040a16?style=for-the-badge&logo=python">
   </div>
-  <div class="container">
-	  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-040a16?style=for-the-badge&logo=portfolio" href="https://github.com/Plaeploeplaeee/portfolio">
-      </div>
   
