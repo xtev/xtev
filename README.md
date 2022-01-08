@@ -88,4 +88,4 @@
 	  stroke-dasharray: 196, 543;
 	  stroke-dashoffset: 437;
   }
-  </style
+	</style>
