@@ -15,6 +15,17 @@
   <div>
     <img alt="Python" src="https://img.shields.io/badge/-python-040a16?style=for-the-badge&logo=python">
   </div>
-  <h2>My discord is 1dev#4162</h2>
-  <br/>
-  <div>
+  <div class="container">
+        <a href="https://github.com/Plaeploeplaeee" class="btn">
+        <svg width="277" height="62">
+          <defs>
+              <linearGradient id="grad1">
+                  <stop offset="0%" stop-color="#0399d4"/>
+                  <stop offset="100%" stop-color="#0399d4" />
+              </linearGradient>
+          </defs>
+           <rect x="5" y="5" rx="25" fill="none" stroke="url(#grad1)" width="266" height="50"></rect>
+        </svg>
+          <span>Github</span>
+      </a>
+      </div>
