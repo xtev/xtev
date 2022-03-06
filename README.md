@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-weight: bold;">Hi im 1dev i am a 14 year old develper who mainly focuses on Discord Api's</h1>
+  <h1 style="font-weight: bold;"> i am a 14 year old develper who mainly focuses on Discord Api's</h1>
   <h2>I have knowledge in JavaScript, Java, HTML, Networking, Minecraft Server Development, Moderation , Adminstration.</h2>
   <br/>
   <h3>Languages</h3>
