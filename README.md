@@ -4,7 +4,6 @@
   <br/>
   <h3>Languages</h3>
   <div>
-    <img alt="Skript" src="https://img.shields.io/badge/-SKRIPT-040a16?style=for-the-badge&logo=skript">
     <img alt="Java" src="https://img.shields.io/badge/-JAVA-040a16?style=for-the-badge&logo=java">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-040a16?style=for-the-badge&logo=html5">
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-040a16?style=for-the-badge&logo=css3">
