@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-weight: bold;"> i am a developer who mainly focuses on Discord Api's</h1>
+  <h1 style="font-weight: bold;">I am a developer who mainly focuses on Discord APIs</h1>
   <h2>I have knowledge in JavaScript, Java, HTML, Networking, Minecraft Server Development, Moderation , Adminstration.</h2>
   <br/>
   <h3>Languages</h3>
