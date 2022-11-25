@@ -1,6 +1,5 @@
 <div align="center">
-  <h1 style="font-weight: bold;"> I'm a Self taught Developer </h1>
-  <h2>I have knowledge in JavaScript, Java, HTML, Networking, Server Development, Moderation , Adminstration.</h2>
+  <h1 style="font-weight: bold;">I am a developer</h1>
   <br/>
   <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,4 +11,3 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     
   [![Discord](https://lanyard.cnrad.dev/api/247073371773337600)](https://discord.com/users/247073371773337600)
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
