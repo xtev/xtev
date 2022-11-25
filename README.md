@@ -1,6 +1,4 @@
 <div align="center">
-  <h1 style="font-weight: bold;">I am a developer</h1>
-  <div style="display: inline_block"><br>
     
   [![Discord](https://lanyard.cnrad.dev/api/247073371773337600)](https://discord.com/users/247073371773337600)
     
