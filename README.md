@@ -10,8 +10,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-    
-    ```csharp
+```csharp
        OS  :  Windows/Ubuntu
       CPU  :  i5-4690K
       GPU  :  GTX 970
